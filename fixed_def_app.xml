@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="PotPlayerMini64.3G2" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".3gp" ProgId="PotPlayerMini64.3GP" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".3gp2" ProgId="PotPlayerMini64.3GP2" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".3gpp" ProgId="PotPlayerMini64.3GPP" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".3mf" ProgId="AppXr0rz9yckydawgnrx5df1t9s57ne60yhn" ApplicationName="Print 3D" />
+  <Association Identifier=".aac" ProgId="PotPlayerMini64.AAC" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".adt" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".adts" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".aiff" ProgId="PotPlayerMini64.AIFF" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".amr" ProgId="PotPlayerMini64.AMR" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".arw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="PotPlayerMini64.ASF" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".ASS" ProgId="PotPlayerMini64.ASS" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".asx" ProgId="PotPlayerMini64.ASX" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".avi" ProgId="PotPlayerMini64.AVI" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".bmp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".CDA" ProgId="PotPlayerMini64.CDA" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".cr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".crw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".dib" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ec3" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".epub" ProgId="AppXvepbp3z66accmsd0x877zbbxjctkpr6t" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".erf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".fbx" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".flac" ProgId="PotPlayerMini64.FLAC" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".gif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".gitignore" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++ : a free (GNU) source code editor" />
+  <Association Identifier=".glb" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".gltf" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".htm" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".html" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".idx" ProgId="PotPlayerMini64.IDX" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpe" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpeg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".js" ProgId="Applications\atom.exe" ApplicationName="Atom" />
+  <Association Identifier=".jxr" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".kdc" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".m1v" ProgId="PotPlayerMini64.M1V" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".m2t" ProgId="PotPlayerMini64.M2T" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".m2ts" ProgId="PotPlayerMini64.M2TS" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".m3u" ProgId="PotPlayerMini64.M3U" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".m4a" ProgId="PotPlayerMini64.M4A" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".M4P" ProgId="PotPlayerMini64.M4P" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".m4r" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".m4v" ProgId="PotPlayerMini64.M4V" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mka" ProgId="PotPlayerMini64.MKA" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mkv" ProgId="PotPlayerMini64.MKV" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mov" ProgId="PotPlayerMini64.MOV" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".MP2" ProgId="PotPlayerMini64.MP2" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mp2v" ProgId="PotPlayerMini64.MP2V" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mp3" ProgId="PotPlayerMini64.MP3" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mp4" ProgId="PotPlayerMini64.MP4" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mp4v" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".mpa" ProgId="PotPlayerMini64.MPA" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".MPE" ProgId="PotPlayerMini64.MPE" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mpeg" ProgId="PotPlayerMini64.MPEG" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mpg" ProgId="PotPlayerMini64.MPG" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mpv2" ProgId="PotPlayerMini64.MPV2" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".mrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".mts" ProgId="PotPlayerMini64.MTS" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".nef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".nrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".obj" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".orf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".pdf" ProgId="AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".pef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ply" ProgId="AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k" ApplicationName="3D Viewer" />
+  <Association Identifier=".png" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".QT" ProgId="PotPlayerMini64.QT" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".RA" ProgId="PotPlayerMini64.RA" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".raf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".RAM" ProgId="PotPlayerMini64.RAM" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".raw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rw2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rwl" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".sr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".SRT" ProgId="PotPlayerMini64.SRT" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".srw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".SSA" ProgId="PotPlayerMini64.SSA" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".stl" ProgId="AppXr0rz9yckydawgnrx5df1t9s57ne60yhn" ApplicationName="Print 3D" />
+  <Association Identifier=".SUB" ProgId="PotPlayerMini64.SUB" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".tif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows 相片檢視器" />
+  <Association Identifier=".tiff" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows 相片檢視器" />
+  <Association Identifier=".tod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".TS" ProgId="PotPlayerMini64.TS" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".TTML" ProgId="PotPlayerMini64.TTML" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".TTS" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="記事本" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="網際網路瀏覽器" />
+  <Association Identifier=".VTT" ProgId="PotPlayerMini64.VTT" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".wav" ProgId="PotPlayerMini64.WAV" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".wax" ProgId="PotPlayerMini64.WAX" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".wdp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wm" ProgId="PotPlayerMini64.WM" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".wma" ProgId="PotPlayerMini64.WMA" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".wmv" ProgId="PotPlayerMini64.WMV" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".wmx" ProgId="PotPlayerMini64.WMX" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".WPL" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".wvx" ProgId="PotPlayerMini64.WVX" ApplicationName="PotPlayer 播放專用 (64 位元)" />
+  <Association Identifier=".xml" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++ : a free (GNU) source code editor" />
+  <Association Identifier=".xvid" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Movies &amp; TV" />
+  <Association Identifier=".zpl" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier="bingmaps" ProgId="AppXp9gkwccvk6fa6yyfq3tmsk8ws2nprk1p" ApplicationName="Maps" />
+  <Association Identifier="http" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="https" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="mailto" ProgId="AppXydk58wgm44se4b399557yyyj1w7mbmvd" ApplicationName="Mail" />
+  <Association Identifier="mswindowsmusic" ProgId="AppXtggqqtcfspt6ks3fjzyfppwc05yxwtwy" ApplicationName="Groove Music" />
+  <Association Identifier="mswindowsvideo" ProgId="AppX6w6n4f8xch1s3vzwf3af6bfe88qhxbza" ApplicationName="Movies &amp; TV" />
+</DefaultAssociations>
